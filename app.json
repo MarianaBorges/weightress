@@ -1,0 +1,12 @@
+{
+  "name": "weightress",
+  "displayName": "weightress",
+  "expo": {
+    "name": "weightress",
+    "slug": "weightress",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
